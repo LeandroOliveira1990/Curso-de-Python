@@ -16,6 +16,6 @@ print('Divisão inteira ', divisao_inteira)
 exponeciacao = 2 ** 10
 print('Exponenciação ', exponeciacao)
 
-modulo = 55 % 2 #Resto da divisão
+modulo = 55 % 2 # Resto da divisão
 print('Módulo ', modulo)
 
